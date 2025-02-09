@@ -1,0 +1,14 @@
+{
+    "columns": {
+        "Time": "Represents the date. There is no time component, as the data represents daily measurements.",
+        "SiteNumber": "A unique number representing an AURN site.",
+        "SiteName": "An AURN-specific site name.",
+        "Longitude": "The longitude coordinate of the AURN site location.",
+        "Latitude": "The latitude coordinate of the AURN site location.",
+        "Primary_Impression_Code": "The code for the primary diagnosis that a healthcare provider identifies as the most significant at the time of the patient's visit or treatment.",
+        "Primary_Impression": "The primary reason the patient is seeking medical attention.",
+        "Primary_Impression_Count": "The daily primary impression counts by AURN site, representing cases reported that are closer to that AURN site."
+    },
+    "source": "Multiple: AURN, and EMAS",
+    "curated_by": "John Atanbori"
+}

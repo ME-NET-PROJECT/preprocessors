@@ -1,0 +1,16 @@
+{
+    "columns": {
+        "Time": "Represents the date. There is no time component, as the data represents daily measurements.",
+        "SiteNumber": "A unique number representing an AURN site.",
+        "SiteName": "An AURN-specific site name.",
+        "Longitude": "The longitude coordinate of the AURN site location.",
+        "Latitude": "The latitude coordinate of the AURN site location.",
+        "aurn_go3": "The daily mean of ground-level ozone measured at the AURN site, expressed in \u00b5g/m\u00b3.",
+        "aurn_go3_max": "The daily maximum of ground-level ozone measured at the AURN site, expressed in \u00b5g/m\u00b3.",
+        "ch4_c": "The daily methane measurement at the site (Methane (CH\u2084) total column), collected from the CAMS dataset. It is originally measured in kg/kg (mmr), but converted to \u00b5g/m\u00b3.",
+        "CH4_S": "The daily methane measurement at the site (Methane (CH\u2084)), collected from the Sentinel-5P dataset, measured in ppb.",
+        "t": "The daily mean temperature, measured in Kelvin (K)."
+    },
+    "source": "Multiple: AURN, CAMs and Sentinel5p",
+    "curated_by": "John Atanbori"
+}
