@@ -59,9 +59,6 @@ project_root/
 │── README.md
 ```
 
-## Authors
-- **[Your Name]** - Developer
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
